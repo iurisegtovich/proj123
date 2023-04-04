@@ -1,0 +1,15 @@
+README.md
+setup.py
+proj123/__init__.py
+proj123/__main__.py
+proj123.egg-info/PKG-INFO
+proj123.egg-info/SOURCES.txt
+proj123.egg-info/dependency_links.txt
+proj123.egg-info/top_level.txt
+proj123/model/__init__.py
+proj123/model/constants.py
+proj123/model/idealgas.py
+proj123/numericals/__init__.py
+proj123/numericals/grad.py
+proj123/utilities/__init__.py
+proj123/utilities/reader.py
